@@ -17,3 +17,8 @@ https://www.hackerearth.com/challenges/competitive/machine-learning-Edelweiss/
 
 ### Leaderboard (3rd)
 https://www.hackerearth.com/challenges/competitive/machine-learning-Edelweiss/leaderboard/
+
+
+# Final
+![title](edel.jpeg)
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6552894146108059648)
